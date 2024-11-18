@@ -1,6 +1,6 @@
 # Code_Jin_et_al_2024_Atherosclerosis_PKN1
 
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14181510.svg)](https://doi.org/10.5281/zenodo.14181510)
 
 TITLE:
 Phosphorylation of endothelial histone H3.3 serine 31 by PKN1 links flow-induced signaling to proatherogenic gene expression
